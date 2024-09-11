@@ -1,0 +1,54 @@
+/* Contenedor principal del formulario */
+
+.FormContainer {
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #98c6e0; /* Suave tono pastel */
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilo de las etiquetas */
+.FormContainer label {
+    display: block;
+    font-weight: bold;
+    color: #6c5ce7; /* Lila suave */
+    margin-bottom: 8px;
+}
+
+.InputField {
+    width: calc(100% - 20px);
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 2px solid #0f96cf; /* Gris claro */
+    border-radius: 5px;
+    background-color: #fffaf3; /* Crema pastel */
+    color: #2d3436; /* Gris oscuro */
+    font-size: 1rem;
+    outline: none;
+    transition: border-color 0.3s ease-in-out;
+}
+
+/* Estilo al enfocar en los campos de entrada */
+.InputField:focus {
+    border-color: #b672e4; /* Azul pastel */
+}
+
+/* Estilo del botón */
+.FormContainer button[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    background-color: #8695e9; /* Menta pastel */
+    color: #2d3436; /* Gris oscuro */
+    border: none;
+    border-radius: 5px;
+    font-size: 1.2rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+}
+
+/* Estilo del botón al pasar el ratón */
+.FormContainer button[type="submit"]:hover {
+    background-color: #b672e4; /* Verde pastel más intenso */
+}

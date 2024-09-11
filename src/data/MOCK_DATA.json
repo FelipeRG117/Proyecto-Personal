@@ -1,0 +1,402 @@
+[
+    {
+        "id": 1,
+        "title": "Producto 1",
+        "description": "Descripción del producto 1",
+        "price": 19.99,
+        "stock": 12,
+        "image": "https://via.placeholder.com/150/FF0000/FFFFFF?text=Producto+1"
+    },
+    {
+        "id": 2,
+        "title": "Producto 2",
+        "description": "Descripción del producto 2",
+        "price": 24.99,
+        "stock": 8,
+        "image": "https://via.placeholder.com/150/00FF00/FFFFFF?text=Producto+2"
+    },
+    {
+        "id": 3,
+        "title": "Producto 3",
+        "description": "Descripción del producto 3",
+        "price": 15.99,
+        "stock": 20,
+        "image": "https://via.placeholder.com/150/0000FF/FFFFFF?text=Producto+3"
+    },
+    {
+        "id": 4,
+        "title": "Producto 4",
+        "description": "Descripción del producto 4",
+        "price": 29.99,
+        "stock": 5,
+        "image": "https://via.placeholder.com/150/FFFF00/FFFFFF?text=Producto+4"
+    },
+    {
+        "id": 5,
+        "title": "Producto 5",
+        "description": "Descripción del producto 5",
+        "price": 9.99,
+        "stock": 15,
+        "image": "https://via.placeholder.com/150/FF00FF/FFFFFF?text=Producto+5"
+    },
+    {
+        "id": 6,
+        "title": "Producto 6",
+        "description": "Descripción del producto 6",
+        "price": 39.99,
+        "stock": 10,
+        "image": "https://via.placeholder.com/150/00FFFF/FFFFFF?text=Producto+6"
+    },
+    {
+        "id": 7,
+        "title": "Producto 7",
+        "description": "Descripción del producto 7",
+        "price": 14.99,
+        "stock": 7,
+        "image": "https://via.placeholder.com/150/FF8000/FFFFFF?text=Producto+7"
+    },
+    {
+        "id": 8,
+        "title": "Producto 8",
+        "description": "Descripción del producto 8",
+        "price": 22.99,
+        "stock": 13,
+        "image": "https://via.placeholder.com/150/8000FF/FFFFFF?text=Producto+8"
+    },
+    {
+        "id": 9,
+        "title": "Producto 9",
+        "description": "Descripción del producto 9",
+        "price": 11.99,
+        "stock": 25,
+        "image": "https://via.placeholder.com/150/0080FF/FFFFFF?text=Producto+9"
+    },
+    {
+        "id": 10,
+        "title": "Producto 10",
+        "description": "Descripción del producto 10",
+        "price": 17.99,
+        "stock": 18,
+        "image": "https://via.placeholder.com/150/80FF00/FFFFFF?text=Producto+10"
+    },
+    {
+        "id": 11,
+        "title": "Producto 11",
+        "description": "Descripción del producto 11",
+        "price": 12.99,
+        "stock": 22,
+        "image": "https://via.placeholder.com/150/FF0080/FFFFFF?text=Producto+11"
+    },
+    {
+        "id": 12,
+        "title": "Producto 12",
+        "description": "Descripción del producto 12",
+        "price": 13.99,
+        "stock": 16,
+        "image": "https://via.placeholder.com/150/800000/FFFFFF?text=Producto+12"
+    },
+    {
+        "id": 13,
+        "title": "Producto 13",
+        "description": "Descripción del producto 13",
+        "price": 19.49,
+        "stock": 30,
+        "image": "https://via.placeholder.com/150/008000/FFFFFF?text=Producto+13"
+    },
+    {
+        "id": 14,
+        "title": "Producto 14",
+        "description": "Descripción del producto 14",
+        "price": 16.99,
+        "stock": 11,
+        "image": "https://via.placeholder.com/150/000080/FFFFFF?text=Producto+14"
+    },
+    {
+        "id": 15,
+        "title": "Producto 15",
+        "description": "Descripción del producto 15",
+        "price": 18.99,
+        "stock": 9,
+        "image": "https://via.placeholder.com/150/FFFF80/FFFFFF?text=Producto+15"
+    },
+    {
+        "id": 16,
+        "title": "Producto 16",
+        "description": "Descripción del producto 16",
+        "price": 14.49,
+        "stock": 21,
+        "image": "https://via.placeholder.com/150/FF8000/FFFFFF?text=Producto+16"
+    },
+    {
+        "id": 17,
+        "title": "Producto 17",
+        "description": "Descripción del producto 17",
+        "price": 15.49,
+        "stock": 14,
+        "image": "https://via.placeholder.com/150/8000FF/FFFFFF?text=Producto+17"
+    },
+    {
+        "id": 18,
+        "title": "Producto 18",
+        "description": "Descripción del producto 18",
+        "price": 20.99,
+        "stock": 12,
+        "image": "https://via.placeholder.com/150/008080/FFFFFF?text=Producto+18"
+    },
+    {
+        "id": 19,
+        "title": "Producto 19",
+        "description": "Descripción del producto 19",
+        "price": 22.49,
+        "stock": 6,
+        "image": "https://via.placeholder.com/150/808000/FFFFFF?text=Producto+19"
+    },
+    {
+        "id": 20,
+        "title": "Producto 20",
+        "description": "Descripción del producto 20",
+        "price": 21.99,
+        "stock": 17,
+        "image": "https://via.placeholder.com/150/008080/FFFFFF?text=Producto+20"
+    },
+    {
+        "id": 21,
+        "title": "Producto 21",
+        "description": "Descripción del producto 21",
+        "price": 25.99,
+        "stock": 8,
+        "image": "https://via.placeholder.com/150/800080/FFFFFF?text=Producto+21"
+    },
+    {
+        "id": 22,
+        "title": "Producto 22",
+        "description": "Descripción del producto 22",
+        "price": 27.49,
+        "stock": 7,
+        "image": "https://via.placeholder.com/150/FF8000/FFFFFF?text=Producto+22"
+    },
+    {
+        "id": 23,
+        "title": "Producto 23",
+        "description": "Descripción del producto 23",
+        "price": 23.99,
+        "stock": 24,
+        "image": "https://via.placeholder.com/150/000080/FFFFFF?text=Producto+23"
+    },
+    {
+        "id": 24,
+        "title": "Producto 24",
+        "description": "Descripción del producto 24",
+        "price": 29.49,
+        "stock": 3,
+        "image": "https://via.placeholder.com/150/FF0080/FFFFFF?text=Producto+24"
+    },
+    {
+        "id": 25,
+        "title": "Producto 25",
+        "description": "Descripción del producto 25",
+        "price": 31.99,
+        "stock": 2,
+        "image": "https://via.placeholder.com/150/00FF80/FFFFFF?text=Producto+25"
+    },
+    {
+        "id": 26,
+        "title": "Producto 26",
+        "description": "Descripción del producto 26",
+        "price": 35.99,
+        "stock": 5,
+        "image": "https://via.placeholder.com/150/808080/FFFFFF?text=Producto+26"
+    },
+    {
+        "id": 27,
+        "title": "Producto 27",
+        "description": "Descripción del producto 27",
+        "price": 33.49,
+        "stock": 4,
+        "image": "https://via.placeholder.com/150/800080/FFFFFF?text=Producto+27"
+    },
+    {
+        "id": 28,
+        "title": "Producto 28",
+        "description": "Descripción del producto 28",
+        "price": 37.49,
+        "stock": 9,
+        "image": "https://via.placeholder.com/150/00FFFF/FFFFFF?text=Producto+28"
+    },
+    {
+        "id": 29,
+        "title": "Producto 29",
+        "description": "Descripción del producto 29",
+        "price": 40.99,
+        "stock": 6,
+        "image": "https://via.placeholder.com/150/FF0000/FFFFFF?text=Producto+29"
+    },
+    {
+        "id": 30,
+        "title": "Producto 30",
+        "description": "Descripción del producto 30",
+        "price": 39.49,
+        "stock": 10,
+        "image": "https://via.placeholder.com/150/00FF00/FFFFFF?text=Producto+30"
+    },
+    {
+        "id": 31,
+        "title": "Producto 31",
+        "description": "Descripción del producto 31",
+        "price": 42.99,
+        "stock": 1,
+        "image": "https://via.placeholder.com/150/0000FF/FFFFFF?text=Producto+31"
+    },
+    {
+        "id": 32,
+        "title": "Producto 32",
+        "description": "Descripción del producto 32",
+        "price": 45.49,
+        "stock": 8,
+        "image": "https://via.placeholder.com/150/FFFF00/FFFFFF?text=Producto+32"
+    },
+    {
+        "id": 33,
+        "title": "Producto 33",
+        "description": "Descripción del producto 33",
+        "price": 49.99,
+        "stock": 3,
+        "image": "https://via.placeholder.com/150/FF00FF/FFFFFF?text=Producto+33"
+    },
+    {
+        "id": 34,
+        "title": "Producto 34",
+        "description": "Descripción del producto 34",
+        "price": 44.99,
+        "stock": 12,
+        "image": "https://via.placeholder.com/150/00FFFF/FFFFFF?text=Producto+34"
+    },
+    {
+        "id": 35,
+        "title": "Producto 35",
+        "description": "Descripción del producto 35",
+        "price": 47.99,
+        "stock": 2,
+        "image": "https://via.placeholder.com/150/FF8000/FFFFFF?text=Producto+35"
+    },
+    {
+        "id": 36,
+        "title": "Producto 36",
+        "description": "Descripción del producto 36",
+        "price": 51.99,
+        "stock": 6,
+        "image": "https://via.placeholder.com/150/8000FF/FFFFFF?text=Producto+36"
+    },
+    {
+        "id": 37,
+        "title": "Producto 37",
+        "description": "Descripción del producto 37",
+        "price": 48.49,
+        "stock": 10,
+        "image": "https://via.placeholder.com/150/0080FF/FFFFFF?text=Producto+37"
+    },
+    {
+        "id": 38,
+        "title": "Producto 38",
+        "description": "Descripción del producto 38",
+        "price": 53.49,
+        "stock": 7,
+        "image": "https://via.placeholder.com/150/80FF00/FFFFFF?text=Producto+38"
+    },
+    {
+        "id": 39,
+        "title": "Producto 39",
+        "description": "Descripción del producto 39",
+        "price": 56.99,
+        "stock": 8,
+        "image": "https://via.placeholder.com/150/FF0080/FFFFFF?text=Producto+39"
+    },
+    {
+        "id": 40,
+        "title": "Producto 40",
+        "description": "Descripción del producto 40",
+        "price": 58.99,
+        "stock": 3,
+        "image": "https://via.placeholder.com/150/800000/FFFFFF?text=Producto+40"
+    },
+    {
+        "id": 41,
+        "title": "Producto 41",
+        "description": "Descripción del producto 41",
+        "price": 54.99,
+        "stock": 11,
+        "image": "https://via.placeholder.com/150/008000/FFFFFF?text=Producto+41"
+    },
+    {
+        "id": 42,
+        "title": "Producto 42",
+        "description": "Descripción del producto 42",
+        "price": 60.99,
+        "stock": 5,
+        "image": "https://via.placeholder.com/150/000080/FFFFFF?text=Producto+42"
+    },
+    {
+        "id": 43,
+        "title": "Producto 43",
+        "description": "Descripción del producto 43",
+        "price": 62.49,
+        "stock": 4,
+        "image": "https://via.placeholder.com/150/FFFF80/FFFFFF?text=Producto+43"
+    },
+    {
+        "id": 44,
+        "title": "Producto 44",
+        "description": "Descripción del producto 44",
+        "price": 65.99,
+        "stock": 2,
+        "image": "https://via.placeholder.com/150/FF8000/FFFFFF?text=Producto+44"
+    },
+    {
+        "id": 45,
+        "title": "Producto 45",
+        "description": "Descripción del producto 45",
+        "price": 63.99,
+        "stock": 9,
+        "image": "https://via.placeholder.com/150/8000FF/FFFFFF?text=Producto+45"
+    },
+    {
+        "id": 46,
+        "title": "Producto 46",
+        "description": "Descripción del producto 46",
+        "price": 67.49,
+        "stock": 3,
+        "image": "https://via.placeholder.com/150/008080/FFFFFF?text=Producto+46"
+    },
+    {
+        "id": 47,
+        "title": "Producto 47",
+        "description": "Descripción del producto 47",
+        "price": 69.99,
+        "stock": 4,
+        "image": "https://via.placeholder.com/150/808000/FFFFFF?text=Producto+47"
+    },
+    {
+        "id": 48,
+        "title": "Producto 48",
+        "description": "Descripción del producto 48",
+        "price": 71.99,
+        "stock": 5,
+        "image": "https://via.placeholder.com/150/008080/FFFFFF?text=Producto+48"
+    },
+    {
+        "id": 49,
+        "title": "Producto 49",
+        "description": "Descripción del producto 49",
+        "price": 73.49,
+        "stock": 6,
+        "image": "https://via.placeholder.com/150/800080/FFFFFF?text=Producto+49"
+    },
+    {
+        "id": 50,
+        "title": "Producto 50",
+        "description": "Descripción del producto 50",
+        "price": 75.99,
+        "stock": 7,
+        "image": "https://via.placeholder.com/150/FF8000/FFFFFF?text=Producto+50"
+    }
+]

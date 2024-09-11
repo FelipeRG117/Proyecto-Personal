@@ -1,0 +1,61 @@
+.target{
+    background-color: darksalmon;
+}
+.navbar-container {
+    width: 100%;
+    background-color: #333;
+    padding: 10px 0;
+}
+
+/* Navbar styling */
+.navbar {
+    display: flex;
+    justify-content: space-between; /* Distributes the title and list evenly */
+    align-items: center;
+    padding: 0 20px;
+}
+
+/* Navbar title */
+.navbar-title {
+    color: #fff;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+/* Navbar list styling */
+.navbar-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 20px; /* Add space between items */
+}
+
+/* Navbar list items */
+.navbar-item {
+    color: #fff;
+    font-size: 18px;
+    text-decoration: none;
+    cursor: pointer;
+    transition: color 0.3s ease;
+}
+
+.navbar-item:hover {
+    color: #ff6347; /* Tomato color on hover */
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .navbar {
+        flex-direction: column;
+    }
+
+    .navbar-list {
+        flex-direction: column;
+        gap: 10px;
+        align-items: center;
+    }
+}
+
+
+
